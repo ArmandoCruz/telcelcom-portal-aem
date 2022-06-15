@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/telcelcom-portal-aem.iml" filepath="$PROJECT_DIR$/telcelcom-portal-aem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/all/telcelcom-portal-aem.all.iml" filepath="$PROJECT_DIR$/all/telcelcom-portal-aem.all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/telcelcom-portal-aem.core.iml" filepath="$PROJECT_DIR$/core/telcelcom-portal-aem.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/it.tests/telcelcom-portal-aem.it.tests.iml" filepath="$PROJECT_DIR$/it.tests/telcelcom-portal-aem.it.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.apps/telcelcom-portal-aem.ui.apps.iml" filepath="$PROJECT_DIR$/ui.apps/telcelcom-portal-aem.ui.apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.apps.structure/telcelcom-portal-aem.ui.apps.structure.iml" filepath="$PROJECT_DIR$/ui.apps.structure/telcelcom-portal-aem.ui.apps.structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.config/telcelcom-portal-aem.ui.config.iml" filepath="$PROJECT_DIR$/ui.config/telcelcom-portal-aem.ui.config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.content/telcelcom-portal-aem.ui.content.iml" filepath="$PROJECT_DIR$/ui.content/telcelcom-portal-aem.ui.content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.frontend/telcelcom-portal-aem.ui.frontend.iml" filepath="$PROJECT_DIR$/ui.frontend/telcelcom-portal-aem.ui.frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.tests/telcelcom-portal-aem.ui.tests.iml" filepath="$PROJECT_DIR$/ui.tests/telcelcom-portal-aem.ui.tests.iml" />
+    </modules>
+  </component>
+</project>

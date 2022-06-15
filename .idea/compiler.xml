@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="telcelcom-portal-aem.ui.apps.structure" />
+        <module name="telcelcom-portal-aem.ui.content" />
+        <module name="telcelcom-portal-aem.core" />
+        <module name="telcelcom-portal-aem.ui.tests" />
+        <module name="telcelcom-portal-aem.ui.config" />
+        <module name="telcelcom-portal-aem.it.tests" />
+        <module name="telcelcom-portal-aem.ui.apps" />
+        <module name="telcelcom-portal-aem.all" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="telcelcom-portal-aem" target="1.8" />
+      <module name="telcelcom-portal-aem.all" target="1.8" />
+      <module name="telcelcom-portal-aem.core" target="1.8" />
+      <module name="telcelcom-portal-aem.it.tests" target="1.8" />
+      <module name="telcelcom-portal-aem.ui.apps" target="1.8" />
+      <module name="telcelcom-portal-aem.ui.apps.structure" target="1.8" />
+      <module name="telcelcom-portal-aem.ui.config" target="1.8" />
+      <module name="telcelcom-portal-aem.ui.content" target="1.8" />
+      <module name="telcelcom-portal-aem.ui.frontend" target="1.8" />
+      <module name="telcelcom-portal-aem.ui.tests" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

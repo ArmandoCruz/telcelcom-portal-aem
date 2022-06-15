@@ -1,0 +1,12 @@
+# Project exclude paths
+/all/target/
+/core/target/
+/it.tests/target/
+/ui.apps/target/
+/ui.apps.structure/target/
+/ui.config/target/
+/ui.content/target/
+/ui.frontend/dist/
+/ui.frontend/node_modules/
+/ui.frontend/target/
+/ui.tests/target/
